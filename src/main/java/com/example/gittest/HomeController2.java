@@ -8,7 +8,7 @@ public class HomeController2 {
 
 	@GetMapping
 	public String home() {
-		return "hello-world2";
+		return "hello-world3";
 	}
 
 }
